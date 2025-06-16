@@ -4,6 +4,9 @@ This repository contains a comprehensive summary of Redis concepts, patterns, an
 
 ---
 
+https://www.hellointerview.com/learn/system-design/deep-dives/redis
+
+
 ## 📚 Topics Covered
 
 ### 🔹 Redis Basics
