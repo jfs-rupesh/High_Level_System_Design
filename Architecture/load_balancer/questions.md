@@ -134,6 +134,7 @@
 5. **Scalability**:
    - Cloud-native → cloud LB.
    - On-prem → software/hardware LB.
+   
 
 ---
 

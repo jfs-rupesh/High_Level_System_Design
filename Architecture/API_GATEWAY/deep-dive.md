@@ -37,6 +37,7 @@ Global Distribution: Deploy regional gateways and use DNS routing.
 
 Separation of Concerns: API Gateway handles edge concerns, not business logic.
 
+
 🧠 When to Use
 Use it:
 

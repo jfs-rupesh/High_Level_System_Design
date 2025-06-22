@@ -57,6 +57,7 @@ A **load balancer** distributes incoming network traffic across multiple servers
 - **Geo Load Balancing**: Uses Anycast or GeoDNS for regional routing.
 - **Session Persistence**: Maintains sticky sessions when needed.
 
+
 ## Load Balancer vs API Gateway
 
 | Feature               | Load Balancer                          | API Gateway                         |

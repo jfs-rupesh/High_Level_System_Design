@@ -158,6 +158,7 @@
 - Set TTL using `EXPIRE` slightly longer than window.
 - Block if count exceeds threshold.
 
+
 ---
 
 ## 20. What are the limitations of using Redis for rate limiting in high-traffic systems?

@@ -227,6 +227,7 @@ API Gateways are stateless and can be scaled horizontally by running multiple in
 
 mTLS ensures both client and server authenticate each other via TLS certificates. Gateways handle the handshake and certificate validation before routing.
 
+
 ---
 
 ### 27. How would you handle multi-tenancy with an API Gateway?
