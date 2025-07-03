@@ -206,7 +206,7 @@ This design prioritizes:
 
 ## 🗺️ Architecture Diagram
 
-![TinyURL System Architecture]![TinyURL System Architecture]
-(diagrams/tinyurl_architecture.png)
+![TinyURL System Architecture](diagrams/tinyurl_architecture.png)
+
 
 
