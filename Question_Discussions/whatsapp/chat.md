@@ -1,6 +1,6 @@
-Here’s a comprehensive and well-organized **README.md** file for your **Facebook Messenger / WhatsApp-style messaging system**, based on your detailed walkthrough:
+## 🗺️ Architecture Diagram
 
----
+![ System Architecture](../diagrams/chat.png)
 
 # 📨 Facebook Messenger / WhatsApp System Design
 
