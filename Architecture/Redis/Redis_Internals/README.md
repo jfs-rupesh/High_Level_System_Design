@@ -2,9 +2,7 @@
 
 This repository contains a comprehensive summary of Redis concepts, patterns, and interview-style questions to help you prepare for system design interviews or deepen your practical understanding of Redis.
 
----
 
-https://www.hellointerview.com/learn/system-design/deep-dives/redis
 
 
 
