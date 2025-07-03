@@ -1,6 +1,7 @@
-Here’s a complete `README.md` file that captures the **entire architecture, algorithms, tradeoffs, and design** of the **Rate Limiter** service as described in your transcript. It’s written for engineers who want a clear and production-ready understanding from **first principles to deployable solution**.
+![ System Architecture](../diagrams/rate.png)
+![ System Architecture](../diagrams/rate2.png)
 
----
+
 
 # ⚡️ High-Performance Rate Limiter – Design & Implementation
 
